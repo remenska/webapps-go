@@ -10,6 +10,7 @@ type person struct {
 }
 
 type Skills []string
+
 type Human struct {
 	name   string
 	age    int
